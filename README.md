@@ -1,2 +1,2 @@
 # Youtube-Videos-downlaoder
-Using Ytube library in python
+Using Pytube library, Tkinter for the GUI in python
